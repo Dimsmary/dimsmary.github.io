@@ -13,11 +13,11 @@ header-img: "img/train.jpg"
 
 ### PCB名片  
 
-[BlackEye](https://github.com/Dimsmary/PCB-Card) PCB名片，可以通过手机NFC的能量发光  
+[PCB-Card](https://github.com/Dimsmary/PCB-Card) PCB名片，可以通过手机NFC的能量发光  
 [视频地址](https://www.bilibili.com/video/av68564711)
 
 ### LaunchPad  
 
-[BlackEye](https://github.com/Dimsmary/MagePad) 适配网页Launchpad的工程，其实是个键盘  
+[Launchpad](https://github.com/Dimsmary/MagePad) 适配网页Launchpad的工程，其实是个键盘  
 [视频地址](https://www.bilibili.com/video/av67710146)
 
