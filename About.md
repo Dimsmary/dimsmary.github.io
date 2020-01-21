@@ -17,5 +17,5 @@ header-img: "img/key_board.jpg"
   
  Youtube/Bilibili/Sina Weibo : Dimsmary
  <center>
-    <p><img src="img/favicon.png" align="center"></p>
+    <p><img src="img/favicon.png" align="center" width="100"></p>
 </center>
