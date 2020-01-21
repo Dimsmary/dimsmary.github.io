@@ -52,7 +52,7 @@ defaults:
     values:
       layout: "post"
       author: "Dimsmary"
-      header-img: "img/ele_1.jpg" # We don't want posts without a header image, that whould mean white on white
+      header-img: "img/ele_1_c.jpg" # We don't want posts without a header image, that whould mean white on white
 
 
 # Comments 
