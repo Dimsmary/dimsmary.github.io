@@ -9,17 +9,13 @@ header-img: "img/key_board.jpg"
     <p><img src="img/Zero.png" align="center"></p>
 </center>
 
-Ehhhh...I know it's not a good question.
-
-My Name is Azeril. You may find me in sites like douban.com / Goodreads.com / Facebook / Instagram / Twitter / Weibo.com, so on and so forth. It’s easy to know me. My short name is Az., quite easy to remember, right?
-
-喜欢折腾的伪技术宅。一点点 geek，一丢丢的执著，就像吃烧烤时多少会撒一点孜然，恰到好处就够。日常之中，多的是折腾劲，也希望能添几分专注、几许勇敢。这就是我。
-
-——Azeril
-
-
-> Live long and prosper
-
-<center>
-    <p><img src="img/hacker.png" align="center"></p>
+电子爱好者。现本科二年级。  
+  
+喜欢做各种东西。然后拍成视频。  
+这是我的个人BBBBBBlog，在这里我会分享一些技术知识。  
+在导航"REPO"里你可以快速找到每个视频对应的开源代码。  
+  
+ Youtube/Bilibili/Sina Weibo : Dimsmary
+ <center>
+    <p><img src="img/favicon.png" align="center" width="100"></p>
 </center>
