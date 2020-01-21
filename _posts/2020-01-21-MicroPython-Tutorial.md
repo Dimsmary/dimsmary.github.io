@@ -13,4 +13,4 @@ description: "ESP32 + Micropthon打造WEB服务器"
 这篇文章将教你如何安装MicroPython到你的单片机，以及基础的使用方法。  
 最终你将使用Micropython搭建一个web服务器。  
 这篇文章我在两万年前就用word码好了 懒得用markdown重新排版，于是乎就有了下面这个pdf
-[![alt text](/img/pdf.jpg "pdf")](/download/UbiServer.pdf)
+[![alt text](/img/pdf.png "pdf_file")](/download/UbisoftServer.pdf)
