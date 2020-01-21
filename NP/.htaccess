@@ -1,0 +1,3 @@
+ErrorDocument 403 /pgn.html
+ErrorDocument 404 /pgn.html
+ErrorDocument 500 /pgn.html

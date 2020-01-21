@@ -1,0 +1,66 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<link rel="stylesheet" type="text/css" href="../css/font.css" />
+<link rel="stylesheet" type="text/css" href="../css/bgcolor.css" />
+<link rel="stylesheet" type="text/css" href="../css/link.css" />
+<link rel="stylesheet" type="text/css" href="../css/dh.css" />
+<link rel="shortcut icon" type="image/x-icon" href="favicon.ico" media="screen" />
+<title>北方人</title>
+<script type="text/javascript">
+function MM_CheckFlashVersion(reqVerStr,msg){
+  with(navigator){
+    var isIE  = (appVersion.indexOf("MSIE") != -1 && userAgent.indexOf("Opera") == -1);
+    var isWin = (appVersion.toLowerCase().indexOf("win") != -1);
+    if (!isIE || !isWin){  
+      var flashVer = -1;
+      if (plugins && plugins.length > 0){
+        var desc = plugins["Shockwave Flash"] ? plugins["Shockwave Flash"].description : "";
+        desc = plugins["Shockwave Flash 2.0"] ? plugins["Shockwave Flash 2.0"].description : desc;
+        if (desc == "") flashVer = -1;
+        else{
+          var descArr = desc.split(" ");
+          var tempArrMajor = descArr[2].split(".");
+          var verMajor = tempArrMajor[0];
+          var tempArrMinor = (descArr[3] != "") ? descArr[3].split("r") : descArr[4].split("r");
+          var verMinor = (tempArrMinor[1] > 0) ? tempArrMinor[1] : 0;
+          flashVer =  parseFloat(verMajor + "." + verMinor);
+        }
+      }
+      // WebTV has Flash Player 4 or lower -- too low for video
+      else if (userAgent.toLowerCase().indexOf("webtv") != -1) flashVer = 4.0;
+
+      var verArr = reqVerStr.split(",");
+      var reqVer = parseFloat(verArr[0] + "." + verArr[2]);
+  
+      if (flashVer < reqVer){
+        if (confirm(msg))
+          window.location = "http://www.macromedia.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash";
+      }
+    }
+  } 
+}
+</script>
+</head>
+<body onload="MM_CheckFlashVersion('7,0,0,0','本页内容需要使用较新的 Adobe Flash Player 版本。是否现在下载它？');">
+	<center>
+	  <img src="../imger/title.png"/>
+<br />
+<table border="0" class="dh" width="100%">
+  <tr>
+    <td width="271" class="font">&nbsp;</td>
+    <td width="88" class="font" align="center" bgcolor="#0099FF"><a href="../index.html" id="dh1">首页</a></td>
+    <td width="88" class="font" align="center"><a href="html/download.html" id="dh2">软件下载</a></td>
+    <td width="88" class="font" align="center"><a href="html/host.html" id="dh3">主机提供</a></td>
+    <td width="88" class="font" align="center"><a href="html/ann.html" id="dh4">公告</a></td>
+    <td width="88" class="font" align="center"><a href="html/we.html" id="dh5">我们/业务</a></td>
+    <td width="88" class="font" align="center"><a href="html/ingerma.html" id="dh6">应爵门</a></td>
+	<td width="88" class="font" align="center"><a href="html/school.html" id="dh7">教程</a></td>
+	<td>&nbsp;</td>
+  </tr>
+</table>
+<p>&nbsp;</p>
+	</center>
+</body>
+</html>

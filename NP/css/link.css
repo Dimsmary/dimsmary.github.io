@@ -1,0 +1,19 @@
+/* CSS Document */
+a:link {color:#FFFFFF;}		/* 未被访问的链接 */
+a:visited {color:#FFFFFF;}	/* 已被访问的链接 */
+a:hover {color:#A2ECE7}	/* 鼠标指针移动到链接上 */
+a:active {color:#00CCFF;}	/* 正在被点击的链接 */
+<!--
+a:link {
+	text-decoration: none;
+}
+a:visited {
+	text-decoration: none;
+}
+a:hover {
+	text-decoration: none;
+}
+a:active {
+	text-decoration: none;
+}
+-->
