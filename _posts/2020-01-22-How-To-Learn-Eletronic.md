@@ -6,7 +6,7 @@ tags: [Share, Tutorial,]
 description: "经验分享"
 ---
 12月22号那天我发了条动态
-![](img/tail/post_dt.png)
+![](/img/tail/post_dt.png)
 现在我感觉有点后悔，感觉视频做不出来（才不是因为咕咕咕
 主要原因是我感觉自己的知识储备还没到可以指导人的程度
 
