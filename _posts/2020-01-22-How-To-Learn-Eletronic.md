@@ -24,6 +24,7 @@ VB也是，**真！就！**买了本 Visual Basic从**入门到精通**，一页
 
 就这样我在初中真就把网站搭起来了，甚至还搭了个论坛。拉了几个玩的好的同学成立了一个工作组。
 事实上我们的论坛和网站也就我们那几个人访问。不过那时候玩的真的是不亦乐乎，**成就感爆满**。
+![](/img/tail/np.png)
 
 到了高中就没有学什么了，你懂的。
 也是高中我开始做视频，那时候我做的视频内容真的很简单，一个红外发光二极管，一节电池，**boom**，夜视仪成了！
@@ -34,7 +35,7 @@ VB也是，**真！就！**买了本 Visual Basic从**入门到精通**，一页
 
 ...看完之后感觉我好像写得有点烂 下面我就来分享我是怎么通过网络学习的
 ## 网络资源
-### 网课
+#### 网课
 通过网课学习不失为一种方法。在网易的**中国大学MOOC**和**Bilibili**上都可以看到非常多名校的课程。
 
 C语言课程我推荐：[浙江大学 - 翁恺老师的C语言课程](https://www.bilibili.com/video/av15267247 "翁恺老师的C语言课程")  
@@ -44,19 +45,20 @@ C语言课程我推荐：[浙江大学 - 翁恺老师的C语言课程](https://w
 同时b站有很多优质的知识分享Up主：  
 [眼见为识 - 量 子 力 学](https://space.bilibili.com/430948380/ "眼见为识 - 量 子 力 学")  
 [寒武纪魔道电子 - 模电/数电/计算机知识](https://space.bilibili.com/332189648/ "寒武纪魔道电子 - 模电/数电/计算机知识")  
-[李永乐老师官方 - 这个就不用我说了吧...啥都有](https://space.bilibili.com/9458053/ "李永乐老师官方 - 这个就不用我说了吧...啥都有")
-[小元老师高数线代概率 - 是他！拯救了我的高数](https://space.bilibili.com/74434623/ "小元老师高数线代概率 - 是他！拯救了我的高数")
-[回形针PaperClip - 当代生活百科全书](https://space.bilibili.com/258150656/ "回形针PaperClip - 当代生活百科全书")
-[3Blue1Brown - 深入浅出 将数学可视化](https://space.bilibili.com/88461692/ "3Blue1Brown - 深入浅出 将数学可视化")
-[王珂Rocky - 这里有他电子相关课程的部分内容，讲的不错](https://space.bilibili.com/95257211/ "王珂Rocky - 这里有他电子相关课程的部分内容，讲的不错")
-[oeasy - 从编程到鬼畜...](https://space.bilibili.com/2884629/ "oeasy - 从编程到鬼畜...")
+[李永乐老师官方 - 这个就不用我说了吧...啥都有](https://space.bilibili.com/9458053/ "李永乐老师官方 - 这个就不用我说了吧...啥都有")  
+[小元老师高数线代概率 - 是他！拯救了我的高数](https://space.bilibili.com/74434623/ "小元老师高数线代概率 - 是他！拯救了我的高数")  
+[回形针PaperClip - 当代生活百科全书](https://space.bilibili.com/258150656/ "回形针PaperClip - 当代生活百科全书")  
+[3Blue1Brown - 深入浅出 将数学可视化](https://space.bilibili.com/88461692/ "3Blue1Brown - 深入浅出 将数学可视化")  
+[王珂Rocky - 这里有他电子相关课程的部分内容，讲的不错](https://space.bilibili.com/95257211/ "王珂Rocky - 这里有他电子相关课程的部分内容，讲的不错")  
+[oeasy - 从编程到鬼畜...](https://space.bilibili.com/2884629/ "oeasy - 从编程到鬼畜...")  
 [lopz- - 油管EEVblog频道的翻译搬运，但是不全。](https://space.bilibili.com/331325599/ "lopz- - 油管EEVblog频道的翻译搬运，但是不全。")如果有能力可以在Youtube关注**EEVblog**频道。  
 
-### Github学生包
+#### Github学生包
 在Github学生包中，囊括了与软件相关的几乎所有内容：服务器、顶级域名、各种IDE的PRO版本、网络学习平台等等。我也是最近才申请的Github学生包，其中[Educative](https://www.educative.io/learn "Educative")让我爽到不行：知识点细化，每学习完一个小点就可以在线训练，不用配置环境.  
+![](/img/tail/creative.png)
 更多资源还等你们发现。
 
-### 善用搜索引擎
+#### 善用搜索引擎
 不懂？上网查呗！  
 当中文搜索没有结果的时候，或许可以试试：英文 + Google 
 
