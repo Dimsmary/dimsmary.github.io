@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Download"
-description: "资源下载航"
+description: "资源下载导航"
 header-img: "img/train.jpg"
 ---
 
