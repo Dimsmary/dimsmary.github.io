@@ -7,5 +7,5 @@ header-img: "img/train.jpg"
 
 
 ### MineCraft - 地下交通系统
-[下载](https://github.com/download/minecraft_subway.7z) 
+[下载](/download/minecraft_subway.7z) 
 
