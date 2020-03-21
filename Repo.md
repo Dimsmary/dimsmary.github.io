@@ -7,7 +7,7 @@ header-img: "img/train.jpg"
 
 
 ### Midi键盘
-[Github:Midi-M](https://github.com/Dimsmary/Midi-M) 游戏“彩虹六号”中的装备 - 黑眼  
+[Github:Midi-M](https://github.com/Dimsmary/Midi-M) 可进行弹奏的midi乐器  
 [视频地址](https://www.bilibili.com/video/av87561317)
 
 ### 黑眼  
