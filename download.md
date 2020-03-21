@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "Repo"
-description: "Repo 快速导航"
+title: "Download"
+description: "资源下载航"
 header-img: "img/train.jpg"
 ---
 
