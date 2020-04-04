@@ -6,7 +6,7 @@ header-img: "img/train.jpg"
 ---
 
 ### OSSAS聊天机器人
-[Github:OSSS Chatbot](https://github.com/Dimsmary/Ossas_ChatBot) 可进行弹奏的midi乐器  
+[Github:OSSS Chatbot](https://github.com/Dimsmary/Ossas_ChatBot) 基于机器学习的智障聊天机器人  
 [视频地址](https://space.bilibili.com/5657589)
 
 ### Midi键盘
