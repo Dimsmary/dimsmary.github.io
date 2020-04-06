@@ -7,7 +7,7 @@ header-img: "img/train.jpg"
 
 ### OSSAS聊天机器人
 [Github:OSSS Chatbot](https://github.com/Dimsmary/Ossas_ChatBot) 基于机器学习的智障聊天机器人  
-[视频地址](https://space.bilibili.com/5657589)
+[视频地址](https://www.bilibili.com/video/BV1LQ4y1K7r7/)
 
 ### Midi键盘
 [Github:Midi-M](https://github.com/Dimsmary/Midi-M) 可进行弹奏的midi乐器  
