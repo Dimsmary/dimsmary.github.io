@@ -7,7 +7,7 @@ header-img: "img/train.jpg"
 
 ### Raspberrypi Case
 
-[Github:Rspberry_Case](https://github.com/Dimsmary/Raspberry_Case) 模仿某科学的超电磁炮中<初春饰利>掌上PC的树莓派外设  
+[Github:Rspberry_Case](https://github.com/Dimsmary/Raspberry_Case) 模仿某科学的超电磁炮中<u>初春饰利</u>掌上PC的树莓派外设  
 
 [视频地址](https://www.bilibili.com/video/BV1jz4y1d7v1)
 
