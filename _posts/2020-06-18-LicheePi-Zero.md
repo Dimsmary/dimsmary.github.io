@@ -38,14 +38,20 @@ description: "关于荔枝派Zero的开发心路历程以及技术分享"
 
 [荔枝派官方镜像]: http://cn.dl.sipeed.com/LICHEE/Zero	"link"
 
-在 Image >> dd_img 下有介绍各个镜像的内容：
+在 Image >> dd_img 下有介绍各个镜像的内容的readme：
 
 >   pack_zero_img.sh -->pack script
+>
 >   minX_dd.tar.bz2  -->min system include Xorg
+>
 >   mindb_dd.tar.gz  -->min Debian，include gcc,python, etc.
+>
 >   brpy_dd.tar.bz2  -->buildroot image，include python etc.(no gcc)
+>
 >   brmin_dd.tar.bz2  -->min buildroot
+>
 >   minmin_dd.tar.bz2  -->min Debian (almost nothing but apt)
+>
 >   lichee_zero_test_Debian_LXDE.tar.bz2  -->Debian with LXDE
 
 待续...
