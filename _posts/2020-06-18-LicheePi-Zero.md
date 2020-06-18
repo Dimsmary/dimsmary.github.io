@@ -24,7 +24,7 @@ description: "关于荔枝派Zero的开发心路历程以及技术分享"
 
 
 ## 正式入坑
-![淘宝图](/img/lichee/taobao.png)
+![淘宝图]("/img/lichee/taobao.png")
 
 说买就买，这里我直接买的裸板，送了一个micro USB的OTG。说实话，没买这个WIFI模块有点后悔，这事儿到后面说。
 
@@ -36,7 +36,7 @@ description: "关于荔枝派Zero的开发心路历程以及技术分享"
 
 官方有给出对应的系统dd镜像：
 
-[荔枝派zero镜像]: http://cn.dl.sipeed.com/LICHEE/Zero
+[荔枝派官方镜像]: http://cn.dl.sipeed.com/LICHEE/Zero	"link"
 
 在 Image >> dd_img 下有介绍各个镜像的内容：
 
