@@ -24,7 +24,7 @@ description: "关于荔枝派Zero的开发心路历程以及技术分享"
 
 
 ## 正式入坑
-![淘宝图]("/img/lichee/taobao.png")
+![淘宝图](/img/lichee/taobao.png)
 
 说买就买，这里我直接买的裸板，送了一个micro USB的OTG。说实话，没买这个WIFI模块有点后悔，这事儿到后面说。
 
@@ -50,7 +50,7 @@ http://cn.dl.sipeed.com/LICHEE/Zero
 >
 >   brmin_dd.tar.bz2  -->min buildroot
 >
->   ## minmin_dd.tar.bz2  -->min Debian (almost nothing but apt)
+>   minmin_dd.tar.bz2  -->min Debian (almost nothing but apt)
 >
 >   lichee_zero_test_Debian_LXDE.tar.bz2  -->Debian with LXDE
 
@@ -64,7 +64,7 @@ http://cn.dl.sipeed.com/LICHEE/Zero
 
 首先用SD Card Formatter进行格式化：
 
-图片
+![sdcardformatter](/img/lichee/sdformat.png)
 
 然后用Win32DiskImager进行烧录。
 
