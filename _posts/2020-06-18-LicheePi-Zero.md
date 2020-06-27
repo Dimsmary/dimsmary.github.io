@@ -509,7 +509,104 @@ python3
 
 ## 驱动SPI屏幕
 
+参考：[http://zero.lichee.pro/%E8%B4%A1%E7%8C%AE/article%203.html](http://zero.lichee.pro/贡献/article 3.html)
 
+https://github.com/notro/fbtft/wiki
+
+这里使用的是ILI9341为主控的SPI屏幕。
+
+首先和驱动USB网卡类似，需要在menuconfig中配置：
+
+```
+Device Drivers  --->
+        [*] Staging drivers  --->
+        <*>   Support for small TFT LCD display modules  --->
+                        <*>   FB driver for the ILI9341 LCD Controller
+                <*>   Generic FB driver for TFT LCD displays
+```
+
+保存退出后，修改设备树：
+
+在/arch/arm/boot/dts/sun8i-v3s.dtsi中，删除自带的视频输出：
+
+```
+               simplefb_lcd: framebuffer@0 {
+                       compatible = "allwinner,simple-framebuffer",
+                                    "simple-framebuffer";
+                       allwinner,pipeline = "de0-lcd0";
+                       clocks = <&ccu CLK_BUS_TCON0>, <&ccu CLK_BUS_DE>,
+                                <&ccu CLK_DE>, <&ccu CLK_TCON0>;
+                       status = "disabled";
+-              };
+```
+
+在/arch/arm/boot/dts/sun8i-v3s-licheepi-zero.dts中添加一个SPI视频设备：
+
+```
+       ili9341@0 {
+               compatible = "ilitek,ili9341";
+               reg = <0>;
+
+               spi-max-frequency = <15000000>;
+               rotate = <270>;
+               bgr;
+               fps = <10>;
+               buswidth = <8>;
+               reset-gpios = <&pio 1 7 GPIO_ACTIVE_LOW>;
+               dc-gpios = <&pio 1 5 GPIO_ACTIVE_LOW>;
+               width = <320>; 
+               height=<240>;
+               debug = <0>;
+       };
+};
+```
+
+这里可以设置各种参数。比如显示屏的分辨率：width = <320>; height=<240>;
+
+修改完成后，删除/arch/arm/boot/sun8i-v3s-licheepi-zero.dtb这个文件，再进行编译。编译完成后复制sun8i-v3s-licheepi-zero.dtb和内核镜像至SD卡BOOT分区。
+
+然后按照下表连线。
+
+| SPI屏 | zero |
+| ----- | ---- |
+| 3v3   | 3v3  |
+| GND   | GND  |
+| DC    | PWM1 |
+| RST   | 3v3  |
+| CS    | CS   |
+| CLK   | CLK  |
+| MISO  | MISO |
+| MOSI  | MOSI |
+
+必须要连接的线：MOSI/CLK/CS/DC 这四根和电源线，不需要从屏幕读取数据MISO可以不连；LED不需要调光可以接3V3；RST不需要可以接3V3。
+
+开机驱动成功加载后内核将会打印：
+
+```
+[    0.860671] fbtft_of_value: buswidth = 8
+[    0.864653] fbtft_of_value: debug = 0
+[    0.868325] fbtft_of_value: rotate = 270
+[    0.872252] fbtft_of_value: fps = 10
+
+[    1.244063] graphics fb0: fb_ili9341 frame buffer, 320x240, 150 KiB video memory, 16 KiB DMA buffer memory, fps=10, spi32766.0 at 15 MHz
+```
+
+同时SPI屏幕会进行显示，此时驱动成功。
+
+若未在/arch/arm/boot/dts/sun8i-v3s.dtsi删除默认显示屏，在开机后将会有两个视频设备：
+
+```
+>ls /dev/fb*
+/dev/fb0 /dev/fb1
+```
+
+此时可以输入：
+
+```
+cat /dev/urandom > /dev/fb1
+```
+
+若屏幕出现雪花，则表示驱动成功。
 
 ## 弃坑
 
@@ -523,10 +620,12 @@ python3
 
 不！读！U！S！B！了！
 
-在尝试了各种固件之后，发现是官方固件中u-boot有问题，在用别人编译的u-boot的时候，启用V4L后可以正常识别出USB摄像头。不过在更换根文件系统之后出现各种问题，所以可能需要自行编译u-boot.
+在尝试了各种固件之后，发现是官方固件中u-boot有问题，在用别人编译的u-boot的时候，启用V4L后可以正常识别出USB摄像头。不过在更换根文件系统之后出现各种问题，所以可能需要自行编译u-boot。
 
-折腾大半个月，最终还是决定放弃荔枝派，拥抱树莓派。
+不过折腾这么久了着实有些枯燥了，于是乎决定暂时放放。最终还是决定放弃荔枝派，拥抱树莓派。
 
+荔枝派在价格上有绝对的优势，但是现在Sipeed似乎已经暂缓了对荔枝派的维护，而且帮助文档也是让新手感觉到一言难尽...
 
+这次入坑荔枝派，我对嵌入式Linux有了一个整体的认识，更深入的研究还是需要比较完整的课程来支持。
 
-待续...
+后期会打算购买相关的开发板继续挖坑。
