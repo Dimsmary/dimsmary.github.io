@@ -9,7 +9,7 @@ header-img: "img/key_board.jpg"
     <p><img src="img/Zero.png" align="center"></p>
 </center>
 
-电子爱好者。现本科二年级。  
+电子爱好者，现本科三年级。  
 
 喜欢做各种东西。然后拍成视频。  
 这是我的个人BBBBBBlog，在这里我会分享一些技术知识。  
