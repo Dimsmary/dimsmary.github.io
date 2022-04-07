@@ -48,7 +48,6 @@ C语言课程我推荐：[浙江大学 - 翁恺老师的C语言课程](https://w
 [寒武纪魔道电子 - 模电/数电/计算机知识](https://space.bilibili.com/332189648/ "寒武纪魔道电子 - 模电/数电/计算机知识")  
 [李永乐老师官方 - 这个就不用我说了吧...啥都有](https://space.bilibili.com/9458053/ "李永乐老师官方 - 这个就不用我说了吧...啥都有")  
 [小元老师高数线代概率 - 是他！拯救了我的高数](https://space.bilibili.com/74434623/ "小元老师高数线代概率 - 是他！拯救了我的高数")  
-[回形针PaperClip - 当代生活百科全书](https://space.bilibili.com/258150656/ "回形针PaperClip - 当代生活百科全书")  
 [3Blue1Brown - 深入浅出 将数学可视化](https://space.bilibili.com/88461692/ "3Blue1Brown - 深入浅出 将数学可视化")  
 [王珂Rocky - 这里有他电子相关课程的部分内容，讲的不错](https://space.bilibili.com/95257211/ "王珂Rocky - 这里有他电子相关课程的部分内容，讲的不错")  
 [oeasy - 从编程到鬼畜...](https://space.bilibili.com/2884629/ "oeasy - 从编程到鬼畜...")  
