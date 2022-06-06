@@ -2,7 +2,7 @@
 layout: post
 title: AMS系列光谱传感器使用指南，以AS7263为例
 categories: [blog ]
-tags: [Share, Tutorial]
+tags: [Tutorial ]
 description: "AMS系列光谱传感器基于UART接口的参数调试、使用方法"
 ---
 # 前言

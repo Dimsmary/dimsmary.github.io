@@ -2,7 +2,7 @@
 layout: post
 title: 编译、安装Open-CV（4.1.2/3.4.9）
 categories: [blog ]
-tags: [Share, Tutorial]
+tags: [Tutorial ]
 description: "在Ubuntu和树莓派上安装OpenCV"
 ---
 ## 前言

@@ -2,7 +2,7 @@
 layout: post
 title: 我是怎么学电子的？
 categories: [blog ]
-tags: [Share, Tutorial,]
+tags: [Tutorial ]
 description: "经验分享"
 ---
 12月22号那天我发了条动态

@@ -2,7 +2,7 @@
 layout: post
 title: 荔枝派-ZERO踩坑记录
 categories: [blog ]
-tags: [Share, Tutorial]
+tags: [Tutorial ]
 description: "关于荔枝派Zero的开发心路历程以及技术分享"
 ---
 ## 一个前言

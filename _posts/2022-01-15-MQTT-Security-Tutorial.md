@@ -2,7 +2,7 @@
 layout: post
 title: 怎么连接上具有TLS/SSL协议的MQTTS服务器
 categories: [blog ]
-tags: [Share, Tutorial]
+tags: [Tutorial ]
 description: "基于Arduino与ESP32讲解如何连接MQTTS服务器"
 ---
 # 前言

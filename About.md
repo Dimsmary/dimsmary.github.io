@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "About"
-description: "I Got you"
+description: "关于我的一些事"
 header-img: "img/key_board.jpg"
 ---
 
@@ -13,7 +13,7 @@ header-img: "img/key_board.jpg"
 
 喜欢做各种东西。然后拍成视频。  
 这是我的个人BBBBBBlog，在这里我会分享一些技术知识。  
-在导航"REPO"里你可以快速找到每个视频对应的开源代码。  
+在导航的"Project"里你可以快速找到每个视频对应的开源代码。  
 
  <center>
     <p><img src="img/skitree.png" align="center"></p>
