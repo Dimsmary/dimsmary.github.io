@@ -1,1 +1,0 @@
-regsvr32 "C:/SYSTEM32/TABCTL32.OCX"
