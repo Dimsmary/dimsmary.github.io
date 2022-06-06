@@ -38,7 +38,7 @@ paginate: 8
 exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone: Dimsmary/Shaoguan
+timezone: Asia/Shanghai
 
 # Title
 
