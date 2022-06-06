@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" id="Layer_1"
+xmlns="http://www.w3.org/2000/svg"
+xmlns:xlink="http://www.w3.org/1999/xlink"
+width="180px" height="50px"
+xml:space="preserve">
+<filter id="filter3" x="-0.600905" y="-0.600905" width="2.38181" height="2.38181" >
+<feFlood result="black"></feFlood>
+<feComponentTransfer in="SourceGraphic">
+	<feFuncR type="linear" slope="0"/>
+	<feFuncG type="linear" slope="0"/>
+	<feFuncB type="linear" slope="0"/>
+</feComponentTransfer>
+<feGaussianBlur stdDeviation="4.6 4.6" />
+<feOffset dx="0" dy="0"/>
+<feComposite  in2="black" operator="arithmetic" k2="-1" k3="1"/>
+<feComponentTransfer result="1">
+	<feFuncR type="linear" Ue="0" intercept="0.701961"/>
+	<feFuncG type="linear" Ue="0" intercept="0.701961"/>
+	<feFuncB type="linear" Ue="0" intercept="0.701961"/>
+	<feFuncA type="linear" xh="0" slope="1.5"/>
+</feComponentTransfer>
+<feComposite result="2"  in="1" in2="SourceGraphic" operator="in"/>
+</filter>
+<g style="filter:url(#filter3);">
+<g id="PathID_1" transform="matrix(1.0724, 0, 0.00188962, 1.03564, 88.95, 24.8)" opacity="1">
+<path style="fill:#FFFFFF;fill-opacity:1" d="M80.1 12.9Q80.1 15.75 78.05 17.8Q76 19.85 73.15 19.85L-73.1 19.85Q-75.95 19.85 -78 17.8Q-80.05 15.75 -80.05 12.9L-80.05 -12.9Q-80.05 -15.75 -78 -17.8Q-75.95 -19.85 -73.1 -19.85L73.15 -19.85Q76 -19.85 78.05 -17.8Q80.1 -15.75 80.1 -12.9L80.1 12.9" />
+</g>
+<g id="PathID_2" transform="matrix(1.0724, 0, 0.00188962, 1.03564, 88.95, 24.8)" opacity="1">
+<path style="fill:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3;stroke:#FFFFFF;stroke-opacity:1" d="M80.05 12.9Q80.05 15.75 78 17.8Q75.95 19.85 73.1 19.85L-73.1 19.85Q-75.95 19.85 -78 17.8Q-80.05 15.75 -80.05 12.9L-80.05 -12.85Q-80.05 -15.7 -78 -17.75Q-75.95 -19.8 -73.1 -19.8L73.1 -19.8Q75.95 -19.8 78 -17.75Q80.05 -15.7 80.05 -12.85L80.05 12.9z" />
+</g>
+</g>
+<g id="PathID_3" transform="matrix(0.463499, 0, 0, 0.463499, 65, 34.3)" opacity="1">
+<path style="fill:#FFFFFF;fill-opacity:1" d="M7.25 -26.4L21.65 -26.4Q22.2 -29.25 22.55 -31.8L1.4 -31.8L1.4 -35.3L16.65 -35.3Q14.6 -38.5 12.65 -40.85L15.7 -42.9Q18.95 -39.4 20.65 -36.95L18.35 -35.3L30.15 -35.3Q32.4 -38.6 34.95 -42.85L38.85 -40.7Q36.8 -38 34.6 -35.3L50 -35.3L50 -31.8L26.75 -31.8L25.45 -26.4L44.3 -26.4L44.3 6.7L40.5 6.7L40.5 3.7L11.05 3.7L11.05 6.7L7.25 6.7L7.25 -26.4M11.05 0.3L40.5 0.3L40.5 -5.3L11.05 -5.3L11.05 0.3M40.5 -23L11.05 -23L11.05 -17.45L40.5 -17.45L40.5 -23M11.05 -8.6L40.5 -8.6L40.5 -14.15L11.05 -14.15L11.05 -8.6" />
+</g>
+<g id="PathID_4" transform="matrix(0.463499, 0, 0, 0.463499, 65, 34.3)" opacity="1">
+</g>
+<g id="PathID_5" transform="matrix(0.463499, 0, 0, 0.463499, 88.7, 34.3)" opacity="1">
+<path style="fill:#FFFFFF;fill-opacity:1" d="M7.4 -29.6L21.6 -29.6Q22.25 -32.2 23.1 -36.3L1.75 -36.3L1.75 -40L49.65 -40L49.65 -36.3L27.55 -36.3Q26.5 -32.4 25.55 -29.6L44.4 -29.6L44.4 -5.8L40.35 -5.8L40.35 -25.9L11.45 -25.9L11.45 -5.6L7.4 -5.6L7.4 -29.6M0.8 3.25Q13.55 0.45 18.35 -3.65Q23.85 -8.15 23.85 -17.55L23.85 -23.15L27.9 -23.15L27.9 -17.35Q27.9 -12.3 26.6 -8.4Q39.2 -2.9 49.55 2.95L47 6.7Q37.4 0.8 25.1 -5Q23.35 -1.95 20.55 0.15Q14.7 4.6 3.4 7.2Q2.5 5.55 0.8 3.25" />
+</g>
+<g id="PathID_6" transform="matrix(0.463499, 0, 0, 0.463499, 88.7, 34.3)" opacity="1">
+</g>
+</svg>
