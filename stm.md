@@ -25,7 +25,7 @@ OSHWHub页面：[扫描隧道显微镜OpenSTM - 嘉立创EDA开源硬件平台](
 
 # 已发布的STM方案版本
 
-## <mark>[Release OpenSTM v1.0.0](https://github.com/Dimsmary/OpenSTM/releases/tag/v1.0.0)</mark>
+### [Release OpenSTM v1.0.0](https://github.com/Dimsmary/OpenSTM/releases/tag/v1.0.0)
 
 这是初代STM方案，机械结构采用两块铝板搭建（[https://www.bilibili.com/video/BV1Jr4y1v7gq）](https://www.bilibili.com/video/BV1Jr4y1v7gq%EF%BC%89)  
 方案较为简单，没有取得能够用于分析的实验结果，但后续方案的搭建基于本初代方案进行搭建，本版本的方案仅供参考，暂不提供详细的文档资料。  
@@ -37,7 +37,7 @@ OSHWHub页面：[扫描隧道显微镜OpenSTM - 嘉立创EDA开源硬件平台](
 - 用于测量干涉条纹的Python脚本
 - LTSpice对电源芯片的仿真文件
 
-## <mark>[Release OpenSTM v2.0.0](https://github.com/Dimsmary/OpenSTM/releases/tag/v2.0.0)</mark>
+### [Release OpenSTM v2.0.0](https://github.com/Dimsmary/OpenSTM/releases/tag/v2.0.0)
 
 该版本方案为第二代显微镜结构：
 
@@ -55,6 +55,24 @@ v2.0.0.zip内含的文件包括：
 
 # 开发技术文档
 
-## STM基础知识
+### STM基础知识
 
-待补充
+- STM原理基本概述
+
+- STM基本结构
+
+### v2.0.0构建指南
+
+- 机械结构
+
+- 电路组成
+
+- 电路控制逻辑
+
+- 上位机操作逻辑
+
+- 扫描头制作
+
+- 探针制作
+
+- 实验结果
