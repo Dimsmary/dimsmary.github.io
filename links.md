@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Links"
-description: "扫描隧道显微镜开发企划"
+description: "一些可能有用的链接"
 header-img: "img/grass.jpg"
 ---
 
@@ -14,5 +14,3 @@ header-img: "img/grass.jpg"
 ### DeathSprout
 
 [https://sydddl.github.io](https://sydddl.github.io/)
-
-
