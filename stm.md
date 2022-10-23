@@ -11,6 +11,8 @@ header-img: "img/stm.jpg"
 
 GitHub页面：[OpenSTM - GitHub](https://github.com/Dimsmary/OpenSTM)
 
+Gitee页面：https://gitee.com/dimsmary/OpenSTM
+
 OSHWHub页面：[扫描隧道显微镜OpenSTM - 嘉立创EDA开源硬件平台](https://oshwhub.com/Dimsmary/4ieRpV8S00kGn1MTpsc4MyZat8MwQPzn)
 
 # 版本发布命名规则
@@ -27,7 +29,10 @@ OSHWHub页面：[扫描隧道显微镜OpenSTM - 嘉立创EDA开源硬件平台](
 
 ### [Release OpenSTM v1.0.0](https://github.com/Dimsmary/OpenSTM/releases/tag/v1.0.0)
 
-这是初代STM方案，机械结构采用两块铝板搭建（[https://www.bilibili.com/video/BV1Jr4y1v7gq）](https://www.bilibili.com/video/BV1Jr4y1v7gq%EF%BC%89)  
+这是初代STM方案，机械结构采用两块铝板搭建
+
+[https://www.bilibili.com/video/BV1Jr4y1v7gq]()  
+
 方案较为简单，没有取得能够用于分析的实验结果，但后续方案的搭建基于本初代方案进行搭建，本版本的方案仅供参考，暂不提供详细的文档资料。  
 发布的方案文件包括了：
 
@@ -42,6 +47,7 @@ OSHWHub页面：[扫描隧道显微镜OpenSTM - 嘉立创EDA开源硬件平台](
 该版本方案为第二代显微镜结构：
 
 https://www.bilibili.com/video/BV1eB4y1S7u8  
+
 该方案的结构能够测量：
 
 - 隧穿距离-电流曲线
@@ -55,18 +61,7 @@ v2.0.0.zip内含的文件包括：
 
 # 开发技术文档
 
-### STM基础知识
+GitHub（国际节点）：https://github.com/Dimsmary/OpenSTM/tree/main/Docs
 
-- STM原理基本概述
-- STM基本结构
+Gitee（国内节点）：https://gitee.com/dimsmary/OpenSTM/tree/main/Docs
 
-### v2.0.0构建指南
-
-- 简介
-- 机械结构
-- 电路组成
-- 电路控制逻辑
-- 上位机操作逻辑
-- 扫描头制作
-- 探针制作
-- 实验结果
