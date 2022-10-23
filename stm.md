@@ -53,7 +53,7 @@ v2.0.0.zip内含的文件包括：
 
 - 3DModel：SolidWorks绘制的3D模型文件、CNC加工所需的STEP文件
 - PCB：立创EDA专业版绘制的原理图、PCB文件
-- SoftWare：在Arduino文件夹下，包含ESP32单片机的控制程序、ATMEGA 328P单片机的控制程序。在Python文件夹下，包含了上位机控制软件、图像转换程序
+- Software：在Arduino文件夹下，包含ESP32单片机的控制程序、ATMEGA 328P单片机的控制程序。在Python文件夹下，包含了上位机控制软件、图像转换程序
 
 # 开发技术文档
 
