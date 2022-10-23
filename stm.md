@@ -27,9 +27,9 @@ OSHWHub页面：[<u>扫描隧道显微镜OpenSTM - 嘉立创EDA开源硬件平�
 
 # 已发布的STM方案版本
 
-### <u>[Release OpenSTM v1.0.0](https://github.com/Dimsmary/OpenSTM/releases/tag/v1.0.0)</u>
+### [<u>Release OpenSTM v1.0.0</u>](https://github.com/Dimsmary/OpenSTM/releases/tag/v1.0.0)
 
-这是初代STM方案，机械结构采用两块铝板搭建：<u>[你，亲眼看过原子吗？ - 哔哩哔哩](https://www.bilibili.com/video/BV1Jr4y1v7gq)</u>  
+这是初代STM方案，机械结构采用两块铝板搭建：[<u>你，亲眼看过原子吗？ - 哔哩哔哩</u>](https://www.bilibili.com/video/BV1Jr4y1v7gq)  
 
 方案较为简单，没有取得能够用于分析的实验结果，但后续方案的搭建基于本初代方案进行搭建，本版本的方案仅供参考，暂不提供详细的文档资料。  
 发布的方案文件包括了：
@@ -40,7 +40,7 @@ OSHWHub页面：[<u>扫描隧道显微镜OpenSTM - 嘉立创EDA开源硬件平�
 - 用于测量干涉条纹的Python脚本
 - LTSpice对电源芯片的仿真文件
 
-### <u>[Release OpenSTM v2.0.0](https://github.com/Dimsmary/OpenSTM/releases/tag/v2.0.0)</u>
+### [<u>Release OpenSTM v2.0.0</u>](https://github.com/Dimsmary/OpenSTM/releases/tag/v2.0.0)
 
 该版本方案为第二代显微镜结构：  [<u>耗时九个月，我可能来到了纳米尺度...... - 哔哩哔哩</u>](https://www.bilibili.com/video/BV1eB4y1S7u8)
 
