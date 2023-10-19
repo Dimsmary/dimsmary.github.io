@@ -17,9 +17,9 @@ OSHWHub页面：[<u>扫描隧道显微镜OpenSTM - 嘉立创EDA开源硬件平�
 
 # 开发技术文档
 
-Arxiv：https://arxiv.org/abs/2310.05413
+Arxiv：[https://arxiv.org/abs/2310.05413](https://arxiv.org/abs/2310.05413)
 
-GitHub: https://github.com/Dimsmary/OpenSTM/tree/main/Docs
+GitHub: [https://github.com/Dimsmary/OpenSTM/tree/main/Docs](https://github.com/Dimsmary/OpenSTM/tree/main/Docs)
 
-Gitee(国内节点): https://gitee.com/dimsmary/OpenSTM/tree/main/Docs 
+Gitee(国内节点): [https://gitee.com/dimsmary/OpenSTM/tree/main/Docs](https://gitee.com/dimsmary/OpenSTM/tree/main/Docs) 
 
